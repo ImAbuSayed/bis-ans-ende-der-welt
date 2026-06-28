@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bis-ans-ende-der-welt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Bis ans Ende der Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-ans-ende-der-welt/) |
+| **Get License** | [Commercial Licensing for Bis ans Ende der Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-ans-ende-der-welt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `6288dcf7248f97e544fa84cdc9bcc05797789841c1a8273f640557eb546703a2` |
 | **Timestamp** | June 29, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
