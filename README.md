@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/bis-ans-ende-der-welt/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Secure Licensing Rights for Bis ans Ende der Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-ans-ende-der-welt/) |
+| **Get License** | [Music Rights & Licensing for Bis ans Ende der Welt](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/bis-ans-ende-der-welt/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Steig in den Wagen, Baby, lass die ganze Stadt hinter uns
+> Dein Blick im Rückspiegel, dieser Vibe ist pure Kunst
+> Kein Limit auf dem Tacho, heute Nacht gibt's kein Zurück
+> Bis ans Ende der Welt jagen wir dieses Glück
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
